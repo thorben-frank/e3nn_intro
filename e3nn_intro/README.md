@@ -1,0 +1,1 @@
+Make `e3nn_jax` and `jupyter` are installed before going through the notebook. 
